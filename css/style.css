@@ -150,7 +150,6 @@ width: 100%;
 }
 /* CONTAINER DE BUSQUEDA*/
 .container-busqueda-interior{
-    padding: 18px 30px;
     height: 150px;
     background-color: white;
     border-radius: 4px;
@@ -159,10 +158,10 @@ width: 100%;
     font-size: 20px;
     margin: 10px 4px;
     padding: 0 16px;
-    height: 120px;
+    height: 40px;
     text-align: center;
     cursor: pointer;
-    margin-top: 60px;
+    margin-top: 20px;
     border: none;
     box-shadow: 1px 2px 7px -1px gray ;
     
@@ -181,4 +180,8 @@ width: 100%;
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
+}
+
+.container-logo-busqueda{
+    margin-bottom: 150px;
 }
