@@ -9,7 +9,7 @@ html{
     font-family: Roboto,Arial,sans-serif;
 }
 body{
-    background-color: pink;
+    background-color: white;
     height: 100vh;
 
 }
@@ -23,7 +23,7 @@ main{
 }
 a{
     text-decoration: none;
-    color: rgb(187, 0, 0);
+    color: #0d0d0d;
 }
 li{
     list-style: none;
@@ -124,10 +124,11 @@ width: 100%;
 .pie-de-pagina{
     font-size: 14px;
     font-family: arial;
+    background-color: rgb(235, 235, 235);
 }
 .uruguay{
     padding: 15px 30px;
-    border-bottom: 0.1px solid #2b96f4;
+    border-bottom: 0.1px solid gray;
     font-size: 15px;
     color: #0d0d0d;
     
@@ -153,9 +154,9 @@ width: 100%;
     height: 150px;
     background-color: white;
     border-radius: 4px;
-    color: aquamarine;
+    color: rgb(15, 15, 15);
     font-family: arial,sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     margin: 10px 4px;
     padding: 0 16px;
     height: 40px;
